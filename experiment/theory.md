@@ -12,7 +12,7 @@ When a body (both streamlined or non-streamlined) moves in the air with speeds h
 The density changes in the air due to the presence of shock waves change the refractive index in the shock wave-affected regions of the air. A light ray transmitted through a fluid flow of variable refractive index is thus affected due to refraction. Therefore, the orthogonal ray is deflected from the original direction after encountering the region affected by the shock wave. The Schlieren imaging picks up these changes due to its sensitivity to the changes in the first density gradient.
  
 <center>
-<img src="./images/Fig2.png" style="width:32%;">
+<img src="./images/Fig2.png" style="width:75%;">
 
 #### Figure 2 Schematic of the Schlieren imaging setup
 </center>
@@ -34,13 +34,13 @@ The supersonic flow impinging on a sharp-edge wedge produces an oblique shock. A
 ### Supersonic wind tunnel
 
 <center>
-<img src="./images/Fig3.png" style="width:32%;">
+<img src="./images/Fig3.png" style="width:75%;">
 
 #### Figure 3 Schematic of the supersonic wind tunnel.
 </center>
  
 <center>
-<img src="./images/Fig4.jpg" style="width:32%;">
+<img src="./images/Fig4.jpg" style="width:75%;">
 
 #### Figure 4 Actual photograph of the supersonic wind tunnel.
 </center>
@@ -50,7 +50,7 @@ The supersonic wind tunnel is used for the present experiment. A schematic and a
 This wind tunnel is a blow-down type of tunnel. One end of the tunnel is connected to the high-pressure tank, and the other is open to the atmosphere. A valve regulates the pressure in the settling chamber upstream of the C-D nozzle; the exit pressure is the atmosphere. Air is drawn from the high-pressure tank (see Figure 5 (right)), filled with pressurized air, and dried after compression. A long manifold with two pairs of pressure control valves and a pressure gauge connects the tank with the settling chamber of the tunnel.
 
 <center>
-<img src="./images/Fig5.png" style="width:32%;">
+<img src="./images/Fig5.png" style="width:75%;">
 
 #### Figure 5 Test section of the supersonic wind tunnel (left) and the high-pressure tank (right)
 </center>
@@ -62,7 +62,7 @@ The air released into the settling chamber enters the test section through a noz
 The Schlieren imaging system can be divided into two different legs. 
 
 <center>
-<img src="./images/Fig6.png" style="width:32%;">
+<img src="./images/Fig6.png" style="width:75%;">
 
 #### Figure 6: Light projection system.
 </center>
@@ -73,7 +73,7 @@ The Schlieren imaging system can be divided into two different legs.
 This system (see Figure 6) consists of the light source, pinhole, and lens for collimating light in parallel beam. All these components lie before the light interacts with the test region. We have used a wattage filament bulb with a mirror-projection housing to project light on the pinhole dial with multiple size holes. A convex lens with a 400 mm focal length is kept further to collimate the beam.
 
 <center>
-<img src="./images/Fig7.png" style="width:32%;">
+<img src="./images/Fig7.png" style="width:75%;">
 
 #### Figure 7: Light acquisition system.
 </center>
@@ -86,7 +86,7 @@ This system (see Figure 7) comprises the focusing lens, knife edge, and the imag
 ### Models
 
 <center>
-<img src="./images/Fig8.png" style="width:32%;">
+<img src="./images/Fig8.png" style="width:75%;">
 
 #### Figure 8 Different models used in the present experiment: Wedge (left) and blunt body with aerospike (right).
 
