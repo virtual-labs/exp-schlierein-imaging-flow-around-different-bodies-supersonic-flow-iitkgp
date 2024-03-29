@@ -95,5 +95,5 @@ This system (see Figure 7) comprises the focusing lens, knife edge, and the imag
 
 Different models used in this experiment are:
 
-1) wedge (ramp) with deflection angle θ = 14 degrees and 22.5 degrees
-2) hemispherical blunt body with a base diameter of 17.6 mm
+1) Sharp-Edge Wedge (ramp) with deflection angle θ = 14 degrees, 22.5 degrees, and 30 degrees
+2) Hemispherical blunt body with a base diameter of 17.6 mm
