@@ -1,0 +1,55 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "Schlieren imaging is a non-intrusive method.",
+        "answers": {
+          "a": "True",
+          "b": "False"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The deflection angle is the angle",
+        "answers": {
+          "a": "The ramp makes with the body axis",
+          "b": "Oblique shock makes with the body axis",
+          "c": "None of the above",
+          "d": "Both"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Schlieren systems detect changes to the",
+        "answers": {
+          "a": "Second derivative in density",
+          "b": "Pressure",
+          "c": "First derivative in density",
+          "d": "None of the above"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The amount of light the knife edge blocks is called “cut-off.”",
+        "answers": {
+          "a": "True",
+          "b": "False"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The knife edge should be kept at the focus of the beam from the test region.",
+        "answers": {
+          "a": "True",
+          "b": "False"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
